@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>XiaoXi_TW</title>
+    <link>http://jimmy20180130.github.io/</link>
+    <description>Recent content on XiaoXi_TW</description>
+    <image>
+      <title>XiaoXi_TW</title>
+      <url>http://jimmy20180130.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://jimmy20180130.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Sep 2023 22:00:03 +0800</lastBuildDate><atom:link href="http://jimmy20180130.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://jimmy20180130.github.io/posts/hello-world/</link>
+      <pubDate>Sun, 17 Sep 2023 22:00:03 +0800</pubDate>
+      
+      <guid>http://jimmy20180130.github.io/posts/hello-world/</guid>
+      <description>Hello World</description>
+    </item>
+    
+    <item>
+      <title>🤝 Links</title>
+      <link>http://jimmy20180130.github.io/links/</link>
+      <pubDate>Sat, 06 Nov 2021 15:15:53 +0800</pubDate>
+      
+      <guid>http://jimmy20180130.github.io/links/</guid>
+      <description>Sulv&amp;#39;s Blog 一个记录技术、阅读、生活的博客 名称： Sulv&amp;rsquo;s Blog 网址： https://www.sulvblog.cn 图标： https://www.sulvblog.cn/img/Q.gif 描述： 一个记录技术、阅读、生活的博客 秉承互换友链原则、文章定期更新、不能有太多广告、个人描述字数控制在15字内
+787018782</description>
+    </item>
+    
+    <item>
+      <title>🙋🏻‍♂️ About Me</title>
+      <link>http://jimmy20180130.github.io/about/</link>
+      <pubDate>Sat, 06 Nov 2021 14:57:28 +0800</pubDate>
+      
+      <guid>http://jimmy20180130.github.io/about/</guid>
+      <description>About me I am Jimmy</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
